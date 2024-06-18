@@ -1,0 +1,17 @@
+Erste Szene: 
+Meine erste Szene wir geladen durch meinen MainMenu Script. Man sieht den Titel und die Buttons die ich eingeführt habe.
+
+Meine Packages:
+
+New Input System
+manifest.json
+
+Zusätliche Funktionen:
+
+Sprinten und sneaken.
+Meine Kapseln haben auch Gravitation.
+Die Sprite Sheets wurden Zeichnungen hinzugefügt.
+Exit button funktioniert.
+Sammelmechanik
+
+
